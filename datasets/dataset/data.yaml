@@ -1,0 +1,6 @@
+train: D:/Projects/AI Vision 2/datasets/dataset/images/train
+val: D:/Projects/AI Vision 2/datasets/dataset/images/val
+test: D:/Projects/AI Vision 2/datasets/dataset/images/test  # optional
+
+nc: 3
+names: ['EVSE', 'Panel', 'GFI']
